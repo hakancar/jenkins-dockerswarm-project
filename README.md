@@ -4,4 +4,5 @@ This project aims to create a Jenkins pipeline to deploy the Phonebook Applicati
 with Docker Swarm on Elastic Compute Cloud (EC2) Instances 
 by pulling the app images from the AWS Elastic Container Registry (ECR) repository.
 
-https://github.com/clarusway/clarusway-devops-8-21/blob/main/projects/205-jenkins-pipeline-for-phonebook-app-on-docker-swarm/Project_205.png
+![image](https://user-images.githubusercontent.com/81579618/136945977-74261584-21aa-4104-be05-7f3833a22597.png)
+
